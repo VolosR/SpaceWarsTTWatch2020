@@ -1,5 +1,5 @@
 
-#include "buttons.h"
+#include "buttons2.h"
 #include "rocket.h"
 #include "brod1.h"
 #include "bulet.h"
